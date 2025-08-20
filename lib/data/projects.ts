@@ -9,13 +9,13 @@ type Project = {
 
 export const currentProjects: Project[] = [
   {
-    image: "/projects/egxo-v2.png",
-    alt: "egxo-v2",
-    title: "egxo-v2",
+    image: "/projects/egxo-dev.png",
+    alt: "egxo-dev",
+    title: "egxo-dev",
     description:
-      "My second take on a personal website & blog, now in one place! Technologies: Next.js, React, JavaScript, MDX, Nodemailer, Zod, CSS Modules, Radix-UI, Vercel, & more!",
-    repositoryLink: "https://github.com/egarrisxn/egxo-v2",
-    websiteLink: "https://egxo-v2.vercel.app",
+      "My current version of a personal portfolio, website, whatever! Technologies: Next.js, React, TypeScript, MDX, Nodemailer, Zod, Motion, Tailwind CSS, Radix-UI, Vercel, & more!",
+    repositoryLink: "https://github.com/egarrisxn/egxo-dev",
+    websiteLink: "https://egxo.dev",
   },
   {
     image: "/projects/pgp.png",
@@ -126,13 +126,22 @@ export const currentProjects: Project[] = [
     websiteLink: "https://unofficialmerchandise.vercel.app",
   },
   {
-    image: "/projects/egxofyi.png",
+    image: "/projects/egxo-fyi.png",
     alt: "egxo.fyi",
     title: "egxo.fyi",
     description:
       "egxo.fyi is my old, personal blog I created to document my journey as a developer. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/egxo-fyi",
     websiteLink: "https://egxo.fyi",
+  },
+  {
+    image: "/projects/egxo-v2.png",
+    alt: "egxo-v2",
+    title: "egxo-v2",
+    description:
+      "My second take on a personal website & blog, now in one place! Technologies: Next.js, React, TypeScript, MDX, Nodemailer, Zod, CSS Modules, Radix-UI, Vercel, & more!",
+    repositoryLink: "https://github.com/egarrisxn/egxo-v2",
+    websiteLink: "https://egxo-v2.vercel.app",
   },
   {
     image: "/projects/seemorenow.png",
