@@ -17,7 +17,7 @@ export function WeeklyTracks() {
             <span className="group-hover:text-green-400">
               My top tracks this week{" "}
             </span>
-            <span className="group-hover:text-foreground inline-block text-green-400 transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+            <span className="inline-block text-green-400 transition-transform group-hover:translate-x-1 group-hover:text-foreground motion-reduce:transform-none">
               {""} &#8599;
             </span>
           </p>

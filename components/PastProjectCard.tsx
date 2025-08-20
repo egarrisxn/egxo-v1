@@ -21,7 +21,7 @@ export function PastProjectCard({
       <h3 className="mb-0.5 line-clamp-1 text-center leading-tight font-semibold tracking-tight group-hover:text-blue-400 group-focus:text-blue-600 md:text-base xl:text-lg 2xl:text-xl dark:group-hover:text-blue-600 dark:group-focus:text-blue-400">
         {project.title}
       </h3>
-      <div className="border-foreground bg-card dark:border-border relative rounded-lg border">
+      <div className="relative rounded-lg border border-foreground bg-card dark:border-border">
         <Image
           src={project.image}
           alt={`Photo of the ${project.alt} project`}

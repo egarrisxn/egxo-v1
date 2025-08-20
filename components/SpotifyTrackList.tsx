@@ -9,7 +9,7 @@ interface TrackProps extends SpotifyTrack {
 
 const Track = ({ ranking, songUrl, title, artist }: TrackProps) => {
   return (
-    <div className="border-foreground/30 mt-3 flex flex-row items-baseline border-b-2">
+    <div className="mt-3 flex flex-row items-baseline border-b-2 border-foreground/30">
       <p className="lg: text-yellow-500 2xl:text-base dark:text-yellow-300">
         {ranking}
       </p>

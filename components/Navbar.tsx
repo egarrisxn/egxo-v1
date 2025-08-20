@@ -4,11 +4,11 @@ import { MobileDropdown } from "./MobileDropdown";
 
 export function Navbar() {
   return (
-    <nav className="bg-background shadow-foreground/10 flex flex-row items-center justify-between shadow-[1px_2px_8px_0px] lg:text-lg 2xl:text-3xl">
+    <nav className="flex flex-row items-center justify-between bg-background shadow-[1px_2px_8px_0px] shadow-foreground/10 lg:text-lg 2xl:text-3xl">
       <section className="p-2 sm:hidden">
         <MobileDropdown />
       </section>
-      <section className="bg-foreground text-background hidden font-bold sm:inline-block sm:p-4 md:p-6 xl:p-8">
+      <section className="hidden bg-foreground font-bold text-background sm:inline-block sm:p-4 md:p-6 xl:p-8">
         <NavItem href="/" label="home">
           EG
         </NavItem>

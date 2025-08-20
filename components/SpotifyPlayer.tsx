@@ -59,7 +59,7 @@ export function SpotifyPlayer() {
                 <Image
                   alt={`${result.title} album art`}
                   src={result.albumImageUrl}
-                  className="lg:border-foreground flex size-4 rounded-sm transition-all duration-150 ease-in-out group-hover:ring-1 group-hover:ring-green-400 lg:size-28 lg:border-2 lg:shadow-[-2px_4px_6px_0px_#01091c] lg:group-hover:ring-4 2xl:size-32"
+                  className="flex size-4 rounded-sm transition-all duration-150 ease-in-out group-hover:ring-1 group-hover:ring-green-400 lg:size-28 lg:border-2 lg:border-foreground lg:shadow-[-2px_4px_6px_0px_#01091c] lg:group-hover:ring-4 2xl:size-32"
                   width={128}
                   height={128}
                 />

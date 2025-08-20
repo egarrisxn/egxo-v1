@@ -13,7 +13,7 @@ export default function AboutPage() {
           title="Who Am I?"
         />
         <article className="mx-auto grid grid-cols-1 justify-center pt-4 md:mx-12 lg:mx-16 xl:mx-auto">
-          <h3 className="shadow-foreground text-2xl leading-12 font-bold drop-shadow-2xl md:text-3xl lg:text-4xl lg:tracking-wide xl:text-5xl 2xl:text-6xl">
+          <h3 className="text-2xl leading-12 font-bold shadow-foreground drop-shadow-2xl md:text-3xl lg:text-4xl lg:tracking-wide xl:text-5xl 2xl:text-6xl">
             Hello, World! I&apos;m{" "}
             <span className="text-green-400 dark:text-green-300">Ethan</span>, a
             passionate Full Stack Developer & Digital Product Designer based in
@@ -47,7 +47,7 @@ export default function AboutPage() {
             </p>
           </section>
 
-          <section className="shadow-foreground mt-10 flex flex-col gap-5 border-t border-green-500 pt-2 drop-shadow-2xl sm:flex-row sm:gap-3 sm:pt-4 md:gap-4 lg:pt-8 xl:mb-12 dark:border-green-300">
+          <section className="mt-10 flex flex-col gap-5 border-t border-green-500 pt-2 shadow-foreground drop-shadow-2xl sm:flex-row sm:gap-3 sm:pt-4 md:gap-4 lg:pt-8 xl:mb-12 dark:border-green-300">
             <p className="h-fit sm:w-1/4 sm:border-r sm:border-green-500 sm:pr-1">
               <span className="font-bold text-green-500 dark:text-green-300">
                 Technologies
@@ -63,7 +63,7 @@ export default function AboutPage() {
             </div>
           </section>
 
-          <section className="shadow-foreground mt-10 flex flex-col gap-5 border-t border-green-500 pt-2 drop-shadow-2xl sm:flex-row sm:gap-3 sm:pt-4 md:gap-4 lg:pt-8 xl:mb-12 dark:border-green-300">
+          <section className="mt-10 flex flex-col gap-5 border-t border-green-500 pt-2 shadow-foreground drop-shadow-2xl sm:flex-row sm:gap-3 sm:pt-4 md:gap-4 lg:pt-8 xl:mb-12 dark:border-green-300">
             <p className="h-fit sm:w-1/4 sm:border-r sm:border-green-500 sm:pr-1">
               <span className="font-bold text-green-500 dark:text-green-300">
                 Contributions

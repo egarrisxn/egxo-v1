@@ -13,7 +13,7 @@ export default function ContactPage() {
           className="text-red-400 dark:text-red-300"
           title="Let's Chat!"
         />
-        <div className="shadow-foreground mx-auto flex flex-col gap-8 pt-4 drop-shadow-2xl md:mx-12 lg:mx-16 lg:flex-row xl:mx-auto">
+        <div className="mx-auto flex flex-col gap-8 pt-4 shadow-foreground drop-shadow-2xl md:mx-12 lg:mx-16 lg:flex-row xl:mx-auto">
           <section className="lg:w-2/3">
             <ContactForm />
           </section>

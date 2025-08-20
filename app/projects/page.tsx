@@ -18,7 +18,7 @@ export default function ProjectsPage() {
           title="Current Projects"
         />
 
-        <section className="shadow-foreground mx-auto flex flex-col pt-4 drop-shadow-2xl md:mx-12 lg:mx-16 xl:mx-auto">
+        <section className="mx-auto flex flex-col pt-4 shadow-foreground drop-shadow-2xl md:mx-12 lg:mx-16 xl:mx-auto">
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:gap-8">
             {currentProjects.map((project, index) => (
               <CurrentProjectCard key={index} project={project} />
@@ -30,7 +30,7 @@ export default function ProjectsPage() {
           Other Projects
         </h2>
 
-        <section className="shadow-foreground mx-auto flex flex-col pt-4 drop-shadow-2xl md:mx-12 lg:mx-16 xl:mx-auto">
+        <section className="mx-auto flex flex-col pt-4 shadow-foreground drop-shadow-2xl md:mx-12 lg:mx-16 xl:mx-auto">
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {otherProjects.map((project, index) => (
               <PastProjectCard key={index} project={project} />
@@ -42,7 +42,7 @@ export default function ProjectsPage() {
           Archived Projects
         </h2>
 
-        <section className="shadow-foreground mx-auto flex flex-col pt-4 drop-shadow-2xl md:mx-12 lg:mx-16 xl:mx-auto">
+        <section className="mx-auto flex flex-col pt-4 shadow-foreground drop-shadow-2xl md:mx-12 lg:mx-16 xl:mx-auto">
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {archivedProjects.map((project, index) => (
               <PastProjectCard key={index} project={project} />

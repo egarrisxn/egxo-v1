@@ -51,7 +51,7 @@ export function ContactForm() {
   };
 
   return (
-    <Card className="sm:border-foreground sm:bg-card sm:dark:border-border flex flex-col sm:rounded-lg sm:border sm:shadow-[1px_3px_4px_0px_#01091c] dark:shadow-xs">
+    <Card className="flex flex-col sm:rounded-lg sm:border sm:border-foreground sm:bg-card sm:shadow-[1px_3px_4px_0px_#01091c] dark:shadow-xs sm:dark:border-border">
       <CardHeader>
         <CardTitle className="text-2xl">Have any questions?</CardTitle>
         <CardDescription className="pb-4 sm:pb-0">

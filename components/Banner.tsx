@@ -10,7 +10,7 @@ export function Banner({ title }: { title: keyof typeof bannerInfo }) {
 
   return (
     <div
-      className={`${banner.className} shadow-muted-foreground/80 flex w-full justify-center border-b py-8 shadow-md`}
+      className={`${banner.className} flex w-full justify-center border-b py-8 shadow-md shadow-muted-foreground/80`}
       role="banner"
     >
       <Image
