@@ -54,6 +54,15 @@ export const currentProjects: Project[] = [
     websiteLink: "https://scribevoice.vercel.app",
   },
   {
+    image: "/projects/xochatbot.png",
+    alt: "XO Chatbot",
+    title: "XO Chatbot",
+    description:
+      "XO Chatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/xochatbot",
+    websiteLink: "https://xochatbot.vercel.app",
+  },
+  {
     image: "/projects/xprod.png",
     alt: "xprod",
     title: "xprod",
@@ -143,27 +152,9 @@ export const currentProjects: Project[] = [
     repositoryLink: "https://github.com/egarrisxn/egxo-v2",
     websiteLink: "https://egxo-v2.vercel.app",
   },
-  {
-    image: "/projects/seemorenow.png",
-    alt: "See More?",
-    title: "See More?",
-    description:
-      "If you would like to see more of what I've done or am currently working on, head over to my GitHub and start exploring. Happy coding!",
-    repositoryLink: "https://github.com/egarrisxn",
-    websiteLink: "https://egxo.dev",
-  },
 ];
 
 export const otherProjects: Project[] = [
-  {
-    image: "/projects/xochatbot.png",
-    alt: "XO Chatbot",
-    title: "XO Chatbot",
-    description:
-      "XO Chatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/xochatbot",
-    websiteLink: "https://xochatbot.vercel.app",
-  },
   {
     image: "/projects/ccnextfolio.png",
     alt: "CC NextFolio",
@@ -226,6 +217,15 @@ export const otherProjects: Project[] = [
       "EZCOPY BUTTONS is a simple, yet powerful copy to clipboard button gallery for your website! Technologies: Next.js, React, JavaScript, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/ezcopy-buttons",
     websiteLink: "https://ezcopy-buttons.vercel.app",
+  },
+  {
+    image: "/projects/seemorenow.png",
+    alt: "See More?",
+    title: "See More?",
+    description:
+      "If you would like to see more of what I've done or am currently working on, head over to my GitHub and start exploring. Happy coding!",
+    repositoryLink: "https://github.com/egarrisxn",
+    websiteLink: "https://egxo.dev",
   },
 ];
 
