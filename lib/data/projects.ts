@@ -17,15 +17,7 @@ export const currentProjects: Project[] = [
     repositoryLink: "https://github.com/egarrisxn/egxo-dev",
     websiteLink: "https://egxo.dev",
   },
-  {
-    image: "/projects/pgp.png",
-    alt: "Patricia Penisten: A Life Remembered",
-    title: "Patricia Penisten: A Life Remembered",
-    description:
-      "Patricia Penisten: A Life Remembered is a site celebrating the life of my grandmother. Technologies: Next.js, React, TypeScript, Supabase, Tailwind CSS, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/patricia-penisten",
-    websiteLink: "https://patricia-penisten.com",
-  },
+
   {
     image: "/projects/quikres.png",
     alt: "Quik|Res",
@@ -45,6 +37,15 @@ export const currentProjects: Project[] = [
     websiteLink: "https://manylinks.vercel.app",
   },
   {
+    image: "/projects/swaybae-v2.png",
+    alt: "Sway Bae Official (2025) ",
+    title: "Sway Bae Official (2025)",
+    description:
+      "Sway Bae Official is a website created for a professional streamer & content creator. Technologies: Next.js, React, TypeScript, Supabase, Tailwind CSS, Resend, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/swaybaeofficial-v2",
+    websiteLink: "https://swaybae.net",
+  },
+  {
     image: "/projects/scribevoice.png",
     alt: "ScribeVoice",
     title: "ScribeVoice",
@@ -54,13 +55,13 @@ export const currentProjects: Project[] = [
     websiteLink: "https://scribevoice.vercel.app",
   },
   {
-    image: "/projects/xochatbot.png",
-    alt: "XO Chatbot",
-    title: "XO Chatbot",
+    image: "/projects/pgp.png",
+    alt: "Patricia Penisten: A Life Remembered",
+    title: "Patricia Penisten: A Life Remembered",
     description:
-      "XO Chatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/xochatbot",
-    websiteLink: "https://xochatbot.vercel.app",
+      "Patricia Penisten: A Life Remembered is a site celebrating the life of my grandmother. Technologies: Next.js, React, TypeScript, Supabase, Tailwind CSS, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/patricia-penisten",
+    websiteLink: "https://patricia-penisten.com",
   },
   {
     image: "/projects/xprod.png",
@@ -72,13 +73,13 @@ export const currentProjects: Project[] = [
     websiteLink: "https://xprod.vercel.app",
   },
   {
-    image: "/projects/swaybae.png",
-    alt: "Sway Bae Official",
-    title: "Sway Bae Official",
+    image: "/projects/xochatbot.png",
+    alt: "XO Chatbot",
+    title: "XO Chatbot",
     description:
-      "Sway Bae Official is a website created for a professional streamer & content creator. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, daisyUI, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/swaybaeofficial",
-    websiteLink: "https://swaybae.net",
+      "XO Chatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/xochatbot",
+    websiteLink: "https://xochatbot.vercel.app",
   },
   {
     image: "/projects/internationalworldwide.png",
@@ -151,6 +152,24 @@ export const currentProjects: Project[] = [
       "My second take on a personal website & blog, now in one place! Technologies: Next.js, React, TypeScript, MDX, Nodemailer, Zod, CSS Modules, Radix-UI, Vercel, & more!",
     repositoryLink: "https://github.com/egarrisxn/egxo-v2",
     websiteLink: "https://egxo-v2.vercel.app",
+  },
+  {
+    image: "/projects/swaybae-v1.png",
+    alt: "Sway Bae Official (2024)",
+    title: "Sway Bae Official (2024)",
+    description:
+      "Sway Bae Official is a website created for a professional streamer & content creator. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, daisyUI, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/swaybaeofficial-v1",
+    websiteLink: "https://swaybae-v1.vercel.app",
+  },
+  {
+    image: "/projects/seemorenow.png",
+    alt: "See More?",
+    title: "See More?",
+    description:
+      "If you would like to see more of what I've done or am currently working on, head over to my GitHub and start exploring. Happy coding!",
+    repositoryLink: "https://github.com/egarrisxn",
+    websiteLink: "https://egxo.dev",
   },
 ];
 
