@@ -155,8 +155,8 @@ export const currentProjects: Project[] = [
   },
   {
     image: "/projects/swaybae-v1.png",
-    alt: "Sway Bae Official (2024)",
-    title: "Sway Bae Official (2024)",
+    alt: "Sway Bae Official (2023)",
+    title: "Sway Bae Official (2023)",
     description:
       "Sway Bae Official is a website created for a professional streamer & content creator. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, daisyUI, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/swaybaeofficial-v1",
