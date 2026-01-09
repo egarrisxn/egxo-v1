@@ -20,8 +20,8 @@ export const currentProjects: Project[] = [
 
   {
     image: "/projects/quikres.png",
-    alt: "Quik|Res",
-    title: "Quik|Res",
+    alt: "QuikRes",
+    title: "QuikRes",
     description:
       "Quik|Res is a resume-to-website builder! Technologies: Next.js, React, TypeScript, AWS S3, Upstash Redis, Clerk, OpenAI, Tailwind CSS, Radix-UI, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/quikres",
