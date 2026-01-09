@@ -288,15 +288,6 @@ export const archivedProjects: Project[] = [
     websiteLink: "https://egarrisxn.github.io/jquery-weather-dashboard-2023",
   },
   {
-    image: "/projects/thequizgame.png",
-    alt: "Quiz Game: Code Edition",
-    title: "Quiz Game: Code Edition",
-    description:
-      "Quiz Game is a simple little game I created that tests your knoweldge and tracks your high scores! Technologies: jQuery, JavaScript, CSS3, HTML5, GitHub Pages, & more.",
-    repositoryLink: "https://github.com/egarrisxn/jquery-quiz-game-2023",
-    websiteLink: "https://egarrisxn.github.io/jquery-quiz-game-2023",
-  },
-  {
     image: "/projects/dailyscheduler.png",
     alt: "Daily Scheduler",
     title: "Daily Scheduler",
@@ -322,5 +313,14 @@ export const archivedProjects: Project[] = [
       "Player One Reads is an application that generates book suggestions based on a user's video game choice. Technologies: Bulma, JavaScript, CSS3, HTML5, GitHub Pages, & more.",
     repositoryLink: "https://github.com/egarrisxn/Player-One-Reads",
     websiteLink: "https://egarrisxn.github.io/Player-One-Reads",
+  },
+  {
+    image: "/projects/seemorenow.png",
+    alt: "See More?",
+    title: "See More?",
+    description:
+      "If you would like to see more of what I've done or am currently working on, head over to my GitHub and start exploring. Happy coding!",
+    repositoryLink: "https://github.com/egarrisxn",
+    websiteLink: "https://egxo.dev",
   },
 ];
