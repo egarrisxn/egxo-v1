@@ -175,15 +175,6 @@ export const currentProjects: Project[] = [
 
 export const otherProjects: Project[] = [
   {
-    image: "/projects/ccnextfolio.png",
-    alt: "CC NextFolio",
-    title: "CC NextFolio",
-    description:
-      "CC NextFolio is a super sleek website template just for you! Technologies: Next.js, React, TypeScript, Content Collections, Zustand, Tailwind CSS, Radix-UI, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/cc-nextfolio",
-    websiteLink: "https://cc-nextfolio.vercel.app",
-  },
-  {
     image: "/projects/websanity.png",
     alt: "WebSanity: Website Builder",
     title: "WebSanity: Website Builder",
@@ -200,15 +191,6 @@ export const otherProjects: Project[] = [
       "Pushin' Mongo: Movies is a full-stack movie database built with the MERN stack. Technologies: Next.js, React, TypeScript, Express, MongoDB, Tailwind CSS, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/pushin-mongo-movies",
     websiteLink: "https://pushin-mongo-movies.vercel.app/",
-  },
-  {
-    image: "/projects/notcoolors.png",
-    alt: "Not Coolors",
-    title: "Not Coolors",
-    description:
-      "Not Coolors is a fun, lightweight color palette generator for all your design needs! Technologies: Next.js, React, JavaScript, Tailwind CSS, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/not-coolors",
-    websiteLink: "https://not-coolors.vercel.app",
   },
   {
     image: "/projects/devbuildresume.png",
