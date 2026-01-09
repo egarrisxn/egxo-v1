@@ -202,24 +202,6 @@ export const otherProjects: Project[] = [
     websiteLink: "https://pushin-mongo-movies.vercel.app/",
   },
   {
-    image: "/projects/typinggame.png",
-    alt: "Gavins Typing Game",
-    title: "Gavins Typing Game",
-    description:
-      "Gavins Typing game is an easy-to-use typing game created and tailored for my son, Gavin. Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix-UI, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/cc-nextfolio",
-    websiteLink: "https://cc-nextfolio.vercel.app",
-  },
-  {
-    image: "/projects/ms-paint.png",
-    alt: "Mississippi Paint",
-    title: "Mississippi Paint",
-    description:
-      "Mississippi Paint is a web browser based spin on the classic Microsoft Paint. Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix-UI, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/mississippi-paint",
-    websiteLink: "https://mississippi-paint.vercel.app",
-  },
-  {
     image: "/projects/notcoolors.png",
     alt: "Not Coolors",
     title: "Not Coolors",
@@ -227,25 +209,7 @@ export const otherProjects: Project[] = [
       "Not Coolors is a fun, lightweight color palette generator for all your design needs! Technologies: Next.js, React, JavaScript, Tailwind CSS, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/not-coolors",
     websiteLink: "https://not-coolors.vercel.app",
-  },
-  {
-    image: "/projects/ezcopy.png",
-    alt: "EZCOPY BUTTONS",
-    title: "EZCOPY BUTTONS",
-    description:
-      "EZCOPY BUTTONS is a simple, yet powerful copy to clipboard button gallery for your website! Technologies: Next.js, React, JavaScript, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/ezcopy-buttons",
-    websiteLink: "https://ezcopy-buttons.vercel.app",
-  },
-  {
-    image: "/projects/seemorenow.png",
-    alt: "See More?",
-    title: "See More?",
-    description:
-      "If you would like to see more of what I've done or am currently working on, head over to my GitHub and start exploring. Happy coding!",
-    repositoryLink: "https://github.com/egarrisxn",
-    websiteLink: "https://egxo.dev",
-  },
+  }
 ];
 
 export const archivedProjects: Project[] = [
