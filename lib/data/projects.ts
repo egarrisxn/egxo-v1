@@ -209,7 +209,25 @@ export const otherProjects: Project[] = [
       "Not Coolors is a fun, lightweight color palette generator for all your design needs! Technologies: Next.js, React, JavaScript, Tailwind CSS, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/not-coolors",
     websiteLink: "https://not-coolors.vercel.app",
-  }
+  },
+  {
+    image: "/projects/devbuildresume.png",
+    alt: "Devbuild Resume",
+    title: "Devbuild Resume",
+    description:
+      "Devbuild Resume is a modern, responsive resume template built with Next.js, React, TypeScript, Tailwind CSS, and Vercel. Technologies: Next.js, React, TypeScript, Tailwind CSS, Vercel.",
+    repositoryLink: "https://github.com/egarrisxn/devbuild-resume",
+    websiteLink: "https://devbuild-resume.vercel.app",
+  },
+  {
+    image: "/projects/seemorenow.png",
+    alt: "See More?",
+    title: "See More?",
+    description:
+      "If you would like to see more of what I've done or am currently working on, head over to my GitHub and start exploring. Happy coding!",
+    repositoryLink: "https://github.com/egarrisxn",
+    websiteLink: "https://egxo.dev",
+  },
 ];
 
 export const archivedProjects: Project[] = [
