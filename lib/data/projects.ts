@@ -74,10 +74,10 @@ export const currentProjects: Project[] = [
   },
   {
     image: "/projects/xochatbot.png",
-    alt: "XO Chatbot",
-    title: "XO Chatbot",
+    alt: "XOChatbot",
+    title: "XOChatbot",
     description:
-      "XO Chatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
+      "XOChatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/xochatbot",
     websiteLink: "https://xochatbot.vercel.app",
   },
@@ -92,10 +92,10 @@ export const currentProjects: Project[] = [
   },
   {
     image: "/projects/xostarter.png",
-    alt: "XO Starter",
-    title: "XO Starter",
+    alt: "XOStarter",
+    title: "XOStarter",
     description:
-      "XO Starter is a sleek, modern, and optimized Next.js starter public template! Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix-UI, Vercel, & more.",
+      "XOStarter is a sleek, modern, and optimized Next.js starter public template! Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix-UI, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/xostarter",
     websiteLink: "https://xostarter.vercel.app/",
   },
