@@ -38,8 +38,8 @@ export const currentProjects: Project[] = [
   },
   {
     image: "/projects/swaybae-v2.png",
-    alt: "Sway Bae Official (2025) ",
-    title: "Sway Bae Official (2025)",
+    alt: "Sway Bae Official v2 ",
+    title: "Sway Bae Official v2",
     description:
       "Sway Bae Official is a website created for a professional streamer & content creator. Technologies: Next.js, React, TypeScript, Supabase, Tailwind CSS, Resend, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/swaybaeofficial-v2",
@@ -155,8 +155,8 @@ export const currentProjects: Project[] = [
   },
   {
     image: "/projects/swaybae-v1.png",
-    alt: "Sway Bae Official (2023)",
-    title: "Sway Bae Official (2023)",
+    alt: "Sway Bae Official v1",
+    title: "Sway Bae Official v1",
     description:
       "Sway Bae Official is a website created for a professional streamer & content creator. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, daisyUI, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/swaybaeofficial-v1",
