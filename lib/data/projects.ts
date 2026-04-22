@@ -17,7 +17,6 @@ export const currentProjects: Project[] = [
     repositoryLink: "https://github.com/egarrisxn/egxo-dev",
     websiteLink: "https://egxo.dev",
   },
-
   {
     image: "/projects/quikres.png",
     alt: "QuikRes",
@@ -72,15 +71,7 @@ export const currentProjects: Project[] = [
     repositoryLink: "https://github.com/egarrisxn/xprod",
     websiteLink: "https://xprod.vercel.app",
   },
-  {
-    image: "/projects/xochatbot.png",
-    alt: "XOChatbot",
-    title: "XOChatbot",
-    description:
-      "XOChatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/xochatbot",
-    websiteLink: "https://xochatbot.vercel.app",
-  },
+
   {
     image: "/projects/internationalworldwide.png",
     alt: "International Worldwide",
@@ -89,15 +80,6 @@ export const currentProjects: Project[] = [
       "Intl. Worldwide is a and multi-themed platform featuring coding practice questionaire. Technologies: Next.js, React, JavaScript, Next-Intl, Tailwind CSS, Vercel, & more.",
     repositoryLink: "https://github.com/egarrisxn/international-worldwide",
     websiteLink: "https://international-worldwide.vercel.app",
-  },
-  {
-    image: "/projects/xostarter.png",
-    alt: "XOStarter",
-    title: "XOStarter",
-    description:
-      "XOStarter is a sleek, modern, and optimized Next.js starter public template! Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix-UI, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/xostarter",
-    websiteLink: "https://xostarter.vercel.app/",
   },
   {
     image: "/projects/resumebuilder.png",
@@ -136,15 +118,6 @@ export const currentProjects: Project[] = [
     websiteLink: "https://unofficialmerchandise.vercel.app",
   },
   {
-    image: "/projects/egxo-fyi.png",
-    alt: "egxo.fyi",
-    title: "egxo.fyi",
-    description:
-      "egxo.fyi is my old, personal blog I created to document my journey as a developer. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.",
-    repositoryLink: "https://github.com/egarrisxn/egxo-fyi",
-    websiteLink: "https://egxo.fyi",
-  },
-  {
     image: "/projects/egxo-v2.png",
     alt: "egxo-v2",
     title: "egxo-v2",
@@ -174,6 +147,33 @@ export const currentProjects: Project[] = [
 ];
 
 export const otherProjects: Project[] = [
+  {
+    image: "/projects/xochatbot.png",
+    alt: "XOChatbot",
+    title: "XOChatbot",
+    description:
+      "XOChatbot is a Grok powered, user friendly AI Chatbot right in your pocket! Technologies: Next.js, React, TypeScript, Grok, Next-Auth, Tailwind CSS, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/xochatbot",
+    websiteLink: "https://xochatbot.vercel.app",
+  },
+  {
+    image: "/projects/xostarter.png",
+    alt: "XOStarter",
+    title: "XOStarter",
+    description:
+      "XOStarter is a sleek, modern, and optimized Next.js starter public template! Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix-UI, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/xostarter",
+    websiteLink: "https://xostarter.vercel.app/",
+  },
+  {
+    image: "/projects/egxo-fyi.png",
+    alt: "egxo.fyi",
+    title: "egxo.fyi",
+    description:
+      "egxo.fyi is my old, personal blog I created to document my journey as a developer. Technologies: Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.",
+    repositoryLink: "https://github.com/egarrisxn/egxo-fyi",
+    websiteLink: "https://egxo.fyi",
+  },
   {
     image: "/projects/websanity.png",
     alt: "WebSanity: Website Builder",
